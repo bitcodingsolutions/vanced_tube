@@ -5,8 +5,7 @@
   "Moreapps": "https://pages.flycricket.io/tata-ipl-2022-live-s-0/privacy.html",
   "global_intra_interval_click": 1,
   "ads_sequence": [
-    "unity_ads",
-    "app_lovin",
+    
     "google_ads",
     "custom_ads"
   ],
