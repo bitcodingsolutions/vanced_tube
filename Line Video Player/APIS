@@ -3,28 +3,10 @@
     {
       "fields": {
         "policy": "https://pages.flycricket.io/tata-ipl-2022-live-s-0/privacy.html",
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://play.google.com/store/apps/details?id=com.liveiplscore",
-        "image": "https://play-lh.googleusercontent.com/cQjAwnCNumqKujr05049ssTcSmFAD-dHmfDPBr2jQcnlyYLZmsvSEPYnnYN9YJw0qw=s180-rw",
-        "title": "TATA IPL 2022 Live Score app"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://play.google.com/store/apps/details?id=com.money_count_save",
-        "image": "https://play-lh.googleusercontent.com/kB7MXSAbO8vKrfbnM8QrzIcNbNm2tWH8rImp5xsIZY1lwKqK3FkNkEFRQpyskJliEbQ=s180-rw",
-        "title": "Cash Counter : Cash Calculator"
-      }
-    },
-    {
-      "fields": {
-        "Links": "https://play.google.com/store/apps/details?id=com.liveiplscore",
-        "image": "https://play-lh.googleusercontent.com/cQjAwnCNumqKujr05049ssTcSmFAD-dHmfDPBr2jQcnlyYLZmsvSEPYnnYN9YJw0qw=s180-rw",
-        "title": "TATA IPL 2022 Live Score app"
-      }
+        "email": "appline@gmail.com",
+        "Qureka": "https://pages.flycricket.io/tata-ipl-2022-live-s-0/privacy.html",
+        "Moreapps": "https://pages.flycricket.io/tata-ipl-2022-live-s-0/privacy.html"
+        }  
     }
   ]
 }
